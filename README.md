@@ -1,8 +1,1 @@
-#hello-world
-This is a hello file
-
-hello,everyone.
-
-today, we will teach you a very nice skill 
-
-that is github.
+使用 Markdown 可以非常容易地为一些单词设置 **加粗** 而为另外一些单词设置 *倾斜*。你甚至可以 [超连接至谷歌！] (http://google.com)
